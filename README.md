@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **js,bootstrap,react**
+- 💬 Ask me about **js,Tailwind,Nextjs**
 
 - 📫 How to reach me **baivabbhusal229@gmail.com**
 
